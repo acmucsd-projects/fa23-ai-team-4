@@ -1,4 +1,3 @@
-![image](https://github.com/acmucsd-projects/fa23-ai-team-byte-benders/assets/117554757/8ebf3fa5-3ee8-434d-8349-9f9bb4d9d754)# fa23-ai-team-byte-benders
 Welcome to the Byte Benders project! 
 
 ## Overview
