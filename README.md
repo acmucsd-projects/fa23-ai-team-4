@@ -8,7 +8,7 @@ In addition, when you click on a pin, you'll see a link directing you to [bookin
 
 ## The Project
 (webapp link - to be added after deployment)  
-(presentation link)
+
 
 ## App walk through
 1. Paste a YouTube video URL into the input box in the home page
