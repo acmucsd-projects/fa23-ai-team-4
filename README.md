@@ -1,4 +1,4 @@
-# fa23-ai-team-byte-benders
+![image](https://github.com/acmucsd-projects/fa23-ai-team-byte-benders/assets/117554757/8ebf3fa5-3ee8-434d-8349-9f9bb4d9d754)# fa23-ai-team-byte-benders
 Welcome to the Byte Benders project! 
 
 ## Overview
@@ -12,9 +12,11 @@ In addition, when you click on a pin, you'll see a link directing you to [bookin
 
 ## App walk through
 1. Paste a YouTube video URL into the input box in the home page
-2. When you hit search, the backend will generate a transcript of the YouTube video, analyze it using spaCy to find any Geopolitical Entities (GPEs) mentioned, and put them in a list
-3. The list will be displayed on an interactive map using LeafletJS and Folium. Each pin will be a location mentioned in the video
-4. When clicking on each pin, a box will appear. The link displayed on the box is a connection to the booking.com page for the specific location.
+   ![image](https://github.com/acmucsd-projects/fa23-ai-team-byte-benders/assets/117554757/b658a1d8-c651-4b14-b8ab-9450a2ce46a8)
+
+3. When you hit search, the backend will generate a transcript of the YouTube video, analyze it using spaCy to find any Geopolitical Entities (GPEs) mentioned, and put them in a list
+4. The list will be displayed on an interactive map using LeafletJS and Folium. Each pin will be a location mentioned in the video
+5. When clicking on each pin, a box will appear. The link displayed on the box is a connection to the booking.com page for the specific location.
    
 ## Technologies
 - spaCy (NLP tool)
