@@ -8,6 +8,7 @@ In addition, when you click on a pin, you'll see a link directing you to [bookin
 
 ## The Project
 (webapp link - to be added after deployment)  
+Presentation: https://docs.google.com/presentation/d/167DrK2RpaJ0yfBuSdUDxzq0PgrmlEpsjRzPSh_isMbo/edit?usp=sharing
 
 
 ## App walk through
